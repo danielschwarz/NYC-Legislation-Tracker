@@ -1,0 +1,195 @@
+﻿
+20181017: Erroneous request [getMatterInfo()]; MatterFile returned 0 items.
+20181017: Int 1170-2018 Prior sponsor count was 0; new sponsor count is: 2
+20181017: Int 1170-2018 Prior sponsors were ; new sponsors are: Ritchie J. Torres; Rafael L. Espinal, Jr.
+20181017: Int 1170-2018 Prior action count was 0; new action count is: 1
+20181017: Int 1170-2018 Prior actions were ; new actions are: 2018-10-17T13:25:00: Introduced by Council
+20181017: Int 1170-2018 is scheduled at Committee: City Council on 2018-10-17T00:00:00
+20181017: Int 1101-2018 Prior sponsor count was 1; new sponsor count is: 2
+20181017: Erroneous request [getMatterInfo()]; MatterFile returned 0 items.
+20181017: T2018-3026 Prior action count was 1; new action count is: 2
+20181017: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council
+20181017: Int 1170-2018 LastChange changed from 2018-10-17T13:44:45.9 to 2018-10-17T15:53:50.197
+20181017: Int 1170-2018 Prior sponsor count was 1; new sponsor count is: 2
+20181017: Int 1170-2018 Prior action count was 1; new action count is: 2
+20181017: Int 1170-2018 Prior actions were 2018-10-17T13:25:00: Introduced by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council
+20181017: Int 1170-2018 is scheduled at Committee: City Council on 2018-10-17T00:00:00
+20181017: Int 1101-2018 Prior sponsor count was 1; new sponsor count is: 2
+20181017: Erroneous request [getMatterInfo()]; MatterFile returned 0 items.
+20181017: Int 1170-2018 Prior sponsor count was 1; new sponsor count is: 2
+20181017: Int 1170-2018 is scheduled at Committee: City Council on 2018-10-17T00:00:00
+20181017: Int 1101-2018 Prior sponsor count was 1; new sponsor count is: 2
+20181017: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181017: Int 1170-2018 Prior sponsor count was 1; new sponsor count is: 2
+20181017: Int 1170-2018 is scheduled at Committee: City Council on 2018-10-17T00:00:00
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-24T17:21:53.95
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 3
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
+20181031: Int 1101-2018 LastChange changed from 2018-10-15T14:30:36.247 to 2018-10-31T20:47:14.44
+20181031: Int 1101-2018 Prior sponsor count was 2; new sponsor count is: 4
+20181031: Int 1101-2018 Prior sponsors were Peter A. Koo; Robert F. Holden; new sponsors are: Peter A. Koo; Donovan J. Richards; Costa G. Constantinides; Barry S. Grodenchik
+20181031: Erroneous request [getMatterInfo()]; MatterFile T2018-3026 returned 0 items.
+20181031: T2018-3026 Prior sponsor count was 1; new sponsor count is: 10
+20181031: T2018-3026 Prior sponsors were Adrienne E. Adams; new sponsors are: Adrienne E. Adams; Ben Kallos; Helen K. Rosenthal; Brad S. Lander; Peter A. Koo; Francisco P. Moya; Mark Levine; Robert F. Holden; Andrew Cohen; Laurie A. Cumbo
+20181031: T2018-3026 Prior action count was 2; new action count is: 4
+20181031: T2018-3026 Prior actions were 2018-10-17T13:25:00: Introduced by Council; 2018-10-17T13:30:00: Referred to Comm by Council; new actions are: 2018-10-17T13:25:00: Introduced by Council; 2018-10-18T13:30:00: Hearing Held by Committee; 2018-10-17T13:30:00: Referred to Comm by Council; 2018-10-18T13:30:00: Laid Over by Committee
+20181031: Int 1170-2018 LastChange changed from 2018-10-17T15:53:50.197 to 2018-10-17T20:29:00.083
